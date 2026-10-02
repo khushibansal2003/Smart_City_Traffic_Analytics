@@ -1,0 +1,301 @@
+Sensor_ID,Location,Date_Time,Vehicle_Count,Average_Speed,Congestion_Level,Year,Month,Day,Hour,Day_Name,Peak_Hour,Congestion_Index,Congestion_Category
+a36f14,Downtown,2024-01-01 00:00:00,90,59,High,2024,1,1,0,Monday,Off-Peak,21.06,Low
+256a39,Downtown,2024-01-01 01:00:00,324,73,Moderate,2024,1,1,1,Monday,Off-Peak,42.39,Medium
+a8a01f,Highway,2024-01-01 02:00:00,61,56,Moderate,2024,1,1,2,Monday,Off-Peak,19.05,Low
+3036e3,Highway,2024-01-01 03:00:00,90,56,High,2024,1,1,3,Monday,Off-Peak,22.58,Low
+2b45b1,Residential Zone,2024-01-01 04:00:00,72,77,High,2024,1,1,4,Monday,Off-Peak,9.76,Low
+6204a2,Downtown,2024-01-01 05:00:00,243,61,Moderate,2024,1,1,5,Monday,Off-Peak,38.63,Medium
+10cf13,Residential Zone,2024-01-01 06:00:00,353,74,Moderate,2024,1,1,6,Monday,Off-Peak,45.41,Medium
+839bb8,Industrial Area,2024-01-01 07:00:00,475,46,High,2024,1,1,7,Monday,Peak,74.4,High
+01274a,Highway,2024-01-01 08:00:00,61,53,Moderate,2024,1,1,8,Monday,Peak,20.57,Low
+d0bc93,Suburbs,2024-01-01 09:00:00,375,44,Low,2024,1,1,9,Monday,Peak,63.27,Medium
+333284,Downtown,2024-01-01 10:00:00,441,21,Moderate,2024,1,1,10,Monday,Peak,82.93,High
+0efa85,Industrial Area,2024-01-01 11:00:00,203,76,Moderate,2024,1,1,11,Monday,Off-Peak,26.17,Low
+f2f551,Residential Zone,2024-01-01 12:00:00,398,70,Moderate,2024,1,1,12,Monday,Off-Peak,52.9,Medium
+f615a6,Industrial Area,2024-01-01 13:00:00,78,50,High,2024,1,1,13,Monday,Off-Peak,24.16,Low
+989431,Downtown,2024-01-01 14:00:00,420,48,Low,2024,1,1,14,Monday,Off-Peak,66.71,High
+87a3d3,Suburbs,2024-01-01 15:00:00,337,63,Low,2024,1,1,15,Monday,Off-Peak,49.03,Medium
+e25a65,Highway,2024-01-01 16:00:00,430,41,Moderate,2024,1,1,16,Monday,Off-Peak,71.47,High
+aac3db,Highway,2024-01-01 17:00:00,296,54,Low,2024,1,1,17,Monday,Peak,48.61,Medium
+0c2b41,Residential Zone,2024-01-01 18:00:00,409,32,Low,2024,1,1,18,Monday,Peak,73.47,High
+0b9994,Suburbs,2024-01-01 19:00:00,168,46,High,2024,1,1,19,Monday,Peak,37.11,Medium
+d08e95,Residential Zone,2024-01-01 20:00:00,458,28,Low,2024,1,1,20,Monday,Peak,81.45,High
+8b2539,Suburbs,2024-01-01 21:00:00,69,20,Low,2024,1,1,21,Monday,Off-Peak,38.25,Medium
+0657f4,Residential Zone,2024-01-01 22:00:00,405,23,Moderate,2024,1,1,22,Monday,Off-Peak,77.54,High
+bbf5ed,Industrial Area,2024-01-01 23:00:00,442,40,High,2024,1,1,23,Monday,Off-Peak,73.43,High
+b2be52,Highway,2024-01-02 00:00:00,372,28,Moderate,2024,1,2,0,Tuesday,Off-Peak,71.0,High
+427ae9,Highway,2024-01-02 01:00:00,410,55,Low,2024,1,2,1,Tuesday,Off-Peak,61.95,Medium
+952d1a,Suburbs,2024-01-02 02:00:00,428,38,Low,2024,1,2,2,Tuesday,Off-Peak,72.74,High
+d6931e,Downtown,2024-01-02 03:00:00,490,31,Moderate,2024,1,2,3,Tuesday,Off-Peak,83.82,High
+37480a,Suburbs,2024-01-02 04:00:00,171,30,High,2024,1,2,4,Tuesday,Off-Peak,45.58,Medium
+7bd9bd,Downtown,2024-01-02 05:00:00,328,21,Moderate,2024,1,2,5,Tuesday,Off-Peak,69.21,High
+385ce7,Industrial Area,2024-01-02 06:00:00,284,38,Low,2024,1,2,6,Tuesday,Off-Peak,55.25,Medium
+1941fe,Suburbs,2024-01-02 07:00:00,123,25,High,2024,1,2,7,Tuesday,Peak,42.28,Medium
+39fa33,Residential Zone,2024-01-02 08:00:00,466,28,Low,2024,1,2,8,Tuesday,Peak,82.42,High
+11ca6a,Suburbs,2024-01-02 09:00:00,88,60,High,2024,1,2,9,Tuesday,Peak,20.31,Low
+ea04d7,Downtown,2024-01-02 10:00:00,116,60,Moderate,2024,1,2,10,Tuesday,Peak,23.71,Low
+a58aa1,Highway,2024-01-02 11:00:00,449,45,Low,2024,1,2,11,Tuesday,Off-Peak,71.75,High
+ca1ce3,Suburbs,2024-01-02 12:00:00,314,43,High,2024,1,2,12,Tuesday,Off-Peak,56.37,Medium
+796f7d,Suburbs,2024-01-02 13:00:00,112,58,Moderate,2024,1,2,13,Tuesday,Off-Peak,24.24,Low
+8cf7eb,Downtown,2024-01-02 14:00:00,258,67,Moderate,2024,1,2,14,Tuesday,Off-Peak,37.41,Medium
+4a79f7,Highway,2024-01-02 15:00:00,209,21,High,2024,1,2,15,Tuesday,Off-Peak,54.75,Medium
+434330,Industrial Area,2024-01-02 16:00:00,494,28,Low,2024,1,2,16,Tuesday,Off-Peak,85.82,High
+eaf3b6,Suburbs,2024-01-02 17:00:00,110,74,Low,2024,1,2,17,Tuesday,Peak,15.89,Low
+53ef76,Highway,2024-01-02 18:00:00,468,78,High,2024,1,2,18,Tuesday,Peak,57.35,Medium
+2735d9,Highway,2024-01-02 19:00:00,301,78,Moderate,2024,1,2,19,Tuesday,Peak,37.07,Medium
+19c517,Downtown,2024-01-02 20:00:00,396,72,High,2024,1,2,20,Tuesday,Peak,51.64,Medium
+75111a,Suburbs,2024-01-02 21:00:00,285,77,High,2024,1,2,21,Tuesday,Off-Peak,35.63,Medium
+91f13e,Downtown,2024-01-02 22:00:00,167,33,High,2024,1,2,22,Tuesday,Off-Peak,43.57,Medium
+89a290,Highway,2024-01-02 23:00:00,161,55,High,2024,1,2,23,Tuesday,Off-Peak,31.71,Low
+1c20b7,Highway,2024-01-03 00:00:00,179,21,Low,2024,1,3,0,Wednesday,Off-Peak,51.11,Medium
+4f4463,Highway,2024-01-03 01:00:00,334,29,Moderate,2024,1,3,1,Wednesday,Off-Peak,65.88,Medium
+543c21,Highway,2024-01-03 02:00:00,371,41,High,2024,1,3,2,Wednesday,Off-Peak,64.3,Medium
+0a17f2,Industrial Area,2024-01-03 03:00:00,459,73,Low,2024,1,3,3,Wednesday,Off-Peak,58.79,Medium
+02b8dd,Highway,2024-01-03 04:00:00,408,47,Moderate,2024,1,3,4,Wednesday,Off-Peak,65.76,Medium
+a5848a,Residential Zone,2024-01-03 05:00:00,447,45,High,2024,1,3,5,Wednesday,Off-Peak,71.51,High
+bc5b3d,Residential Zone,2024-01-03 06:00:00,338,78,Low,2024,1,3,6,Wednesday,Off-Peak,41.56,Medium
+3310a8,Highway,2024-01-03 07:00:00,405,29,Moderate,2024,1,3,7,Wednesday,Peak,74.51,High
+d6f7c2,Suburbs,2024-01-03 08:00:00,273,32,High,2024,1,3,8,Wednesday,Peak,56.96,Medium
+f66341,Suburbs,2024-01-03 09:00:00,471,72,Moderate,2024,1,3,9,Wednesday,Peak,60.75,Medium
+e0b797,Industrial Area,2024-01-03 10:00:00,274,29,Low,2024,1,3,10,Wednesday,Peak,58.6,Medium
+1733ef,Suburbs,2024-01-03 11:00:00,151,35,Moderate,2024,1,3,11,Wednesday,Off-Peak,40.62,Medium
+f479af,Highway,2024-01-03 12:00:00,292,65,Moderate,2024,1,3,12,Wednesday,Off-Peak,42.55,Medium
+5c13e9,Suburbs,2024-01-03 13:00:00,355,69,High,2024,1,3,13,Wednesday,Off-Peak,48.18,Medium
+0555d9,Suburbs,2024-01-03 14:00:00,129,45,Moderate,2024,1,3,14,Wednesday,Off-Peak,32.88,Low
+9eac86,Suburbs,2024-01-03 15:00:00,337,45,Low,2024,1,3,15,Wednesday,Off-Peak,58.15,Medium
+e29033,Industrial Area,2024-01-03 16:00:00,128,28,High,2024,1,3,16,Wednesday,Off-Peak,41.37,Medium
+283c14,Residential Zone,2024-01-03 17:00:00,449,74,Low,2024,1,3,17,Wednesday,Peak,57.07,Medium
+b87fe7,Suburbs,2024-01-03 18:00:00,368,57,Moderate,2024,1,3,18,Wednesday,Peak,55.84,Medium
+738d77,Residential Zone,2024-01-03 19:00:00,427,41,Low,2024,1,3,19,Wednesday,Peak,71.1,High
+e55908,Suburbs,2024-01-03 20:00:00,286,65,Low,2024,1,3,20,Wednesday,Peak,41.83,Medium
+239899,Highway,2024-01-03 21:00:00,238,73,Low,2024,1,3,21,Wednesday,Off-Peak,31.94,Low
+d53e85,Suburbs,2024-01-03 22:00:00,105,43,Low,2024,1,3,22,Wednesday,Off-Peak,30.98,Low
+a3e5cc,Highway,2024-01-03 23:00:00,83,76,High,2024,1,3,23,Wednesday,Off-Peak,11.6,Low
+865c10,Industrial Area,2024-01-04 00:00:00,222,77,Moderate,2024,1,4,0,Thursday,Off-Peak,27.98,Low
+4596db,Suburbs,2024-01-04 01:00:00,70,72,High,2024,1,4,1,Thursday,Off-Peak,12.05,Low
+51db73,Downtown,2024-01-04 02:00:00,465,54,Low,2024,1,4,2,Thursday,Off-Peak,69.14,High
+bb3017,Highway,2024-01-04 03:00:00,290,55,Moderate,2024,1,4,3,Thursday,Off-Peak,47.37,Medium
+40f744,Industrial Area,2024-01-04 04:00:00,217,63,Low,2024,1,4,4,Thursday,Off-Peak,34.46,Medium
+0ac21c,Downtown,2024-01-04 05:00:00,294,34,Low,2024,1,4,5,Thursday,Off-Peak,58.49,Medium
+993101,Highway,2024-01-04 06:00:00,141,29,High,2024,1,4,6,Thursday,Off-Peak,42.44,Medium
+4478b2,Downtown,2024-01-04 07:00:00,341,50,Moderate,2024,1,4,7,Thursday,Peak,56.1,Medium
+e18116,Downtown,2024-01-04 08:00:00,465,35,Low,2024,1,4,8,Thursday,Peak,78.76,High
+8ee768,Industrial Area,2024-01-04 09:00:00,483,58,Moderate,2024,1,4,9,Thursday,Peak,69.3,High
+02678e,Residential Zone,2024-01-04 10:00:00,494,54,Moderate,2024,1,4,10,Thursday,Peak,72.66,High
+956096,Highway,2024-01-04 11:00:00,451,49,Moderate,2024,1,4,11,Thursday,Off-Peak,69.97,High
+e8d504,Industrial Area,2024-01-04 12:00:00,489,37,Low,2024,1,4,12,Thursday,Off-Peak,80.66,High
+a88565,Residential Zone,2024-01-04 13:00:00,488,22,High,2024,1,4,13,Thursday,Off-Peak,88.13,High
+a43f9f,Suburbs,2024-01-04 14:00:00,231,35,Low,2024,1,4,14,Thursday,Off-Peak,50.34,Medium
+3eec2b,Residential Zone,2024-01-04 15:00:00,362,21,Low,2024,1,4,15,Thursday,Off-Peak,73.33,High
+75ec75,Highway,2024-01-04 16:00:00,415,31,High,2024,1,4,16,Thursday,Off-Peak,74.71,High
+d87851,Downtown,2024-01-04 17:00:00,81,39,Low,2024,1,4,17,Thursday,Peak,30.09,Low
+d863e1,Downtown,2024-01-04 18:00:00,331,78,Moderate,2024,1,4,18,Thursday,Peak,40.71,Medium
+0d7a23,Residential Zone,2024-01-04 19:00:00,396,48,Low,2024,1,4,19,Thursday,Peak,63.79,Medium
+760dd8,Residential Zone,2024-01-04 20:00:00,183,41,Low,2024,1,4,20,Thursday,Peak,41.47,Medium
+0bc3cc,Suburbs,2024-01-04 21:00:00,353,62,Moderate,2024,1,4,21,Thursday,Off-Peak,51.48,Medium
+7e46f2,Suburbs,2024-01-04 22:00:00,316,42,Low,2024,1,4,22,Thursday,Off-Peak,57.11,Medium
+a477e6,Suburbs,2024-01-04 23:00:00,192,56,Low,2024,1,4,23,Thursday,Off-Peak,34.97,Medium
+e79d8e,Residential Zone,2024-01-05 00:00:00,447,26,Moderate,2024,1,5,0,Friday,Off-Peak,81.13,High
+be68f6,Highway,2024-01-05 01:00:00,372,32,Moderate,2024,1,5,1,Friday,Off-Peak,68.98,High
+162ec9,Highway,2024-01-05 02:00:00,208,28,High,2024,1,5,2,Friday,Off-Peak,51.09,Medium
+9d4ebd,Industrial Area,2024-01-05 03:00:00,101,46,Low,2024,1,5,3,Friday,Off-Peak,28.98,Low
+176c7e,Residential Zone,2024-01-05 04:00:00,296,57,Moderate,2024,1,5,4,Friday,Off-Peak,47.09,Medium
+bbc288,Residential Zone,2024-01-05 05:00:00,311,38,High,2024,1,5,5,Friday,Off-Peak,58.53,Medium
+4c0391,Industrial Area,2024-01-05 06:00:00,473,35,Moderate,2024,1,5,6,Friday,Off-Peak,79.73,High
+7c648e,Residential Zone,2024-01-05 07:00:00,265,78,Moderate,2024,1,5,7,Friday,Peak,32.69,Low
+8f9f29,Industrial Area,2024-01-05 08:00:00,317,70,Low,2024,1,5,8,Friday,Peak,43.06,Medium
+8cafe5,Highway,2024-01-05 09:00:00,185,49,High,2024,1,5,9,Friday,Peak,37.66,Medium
+e65187,Highway,2024-01-05 10:00:00,435,68,High,2024,1,5,10,Friday,Peak,58.4,Medium
+3318de,Residential Zone,2024-01-05 11:00:00,288,25,Moderate,2024,1,5,11,Friday,Off-Peak,62.32,Medium
+1be68e,Industrial Area,2024-01-05 12:00:00,230,21,Low,2024,1,5,12,Friday,Off-Peak,57.3,Medium
+74f2f6,Highway,2024-01-05 13:00:00,250,35,High,2024,1,5,13,Friday,Off-Peak,52.64,Medium
+047aa9,Residential Zone,2024-01-05 14:00:00,288,39,Low,2024,1,5,14,Friday,Off-Peak,55.23,Medium
+13f748,Downtown,2024-01-05 15:00:00,462,46,High,2024,1,5,15,Friday,Off-Peak,72.82,High
+29668a,Industrial Area,2024-01-05 16:00:00,85,72,High,2024,1,5,16,Friday,Off-Peak,13.87,Low
+9cfb81,Highway,2024-01-05 17:00:00,342,25,High,2024,1,5,17,Friday,Peak,68.88,High
+1ada7b,Downtown,2024-01-05 18:00:00,55,66,Low,2024,1,5,18,Friday,Peak,13.26,Low
+33da5c,Industrial Area,2024-01-05 19:00:00,309,62,Low,2024,1,5,19,Friday,Peak,46.14,Medium
+b045d6,Residential Zone,2024-01-05 20:00:00,259,24,High,2024,1,5,20,Friday,Peak,59.31,Medium
+f57f43,Suburbs,2024-01-05 21:00:00,67,75,High,2024,1,5,21,Friday,Off-Peak,10.16,Low
+61d069,Downtown,2024-01-05 22:00:00,331,61,Low,2024,1,5,22,Friday,Off-Peak,49.32,Medium
+c5f4c6,Industrial Area,2024-01-05 23:00:00,180,29,High,2024,1,5,23,Friday,Off-Peak,47.18,Medium
+360d4f,Residential Zone,2024-01-06 00:00:00,266,69,Moderate,2024,1,6,0,Saturday,Off-Peak,37.37,Medium
+8f09c1,Highway,2024-01-06 01:00:00,342,46,High,2024,1,6,1,Saturday,Off-Peak,58.25,Medium
+22c0b4,Industrial Area,2024-01-06 02:00:00,470,45,Moderate,2024,1,6,2,Saturday,Off-Peak,74.3,High
+41ab75,Downtown,2024-01-06 03:00:00,190,25,High,2024,1,6,3,Saturday,Off-Peak,50.42,Medium
+e82a1d,Highway,2024-01-06 04:00:00,200,69,High,2024,1,6,4,Saturday,Off-Peak,29.35,Low
+19550e,Suburbs,2024-01-06 05:00:00,102,78,High,2024,1,6,5,Saturday,Off-Peak,12.89,Low
+44f378,Industrial Area,2024-01-06 06:00:00,223,40,Low,2024,1,6,6,Saturday,Off-Peak,46.83,Medium
+c08ec4,Highway,2024-01-06 07:00:00,139,69,Low,2024,1,6,7,Saturday,Peak,21.95,Low
+11d489,Suburbs,2024-01-06 08:00:00,180,22,Moderate,2024,1,6,8,Saturday,Peak,50.72,Medium
+91bd57,Suburbs,2024-01-06 09:00:00,219,46,Low,2024,1,6,9,Saturday,Peak,43.31,Medium
+121623,Suburbs,2024-01-06 10:00:00,425,36,Moderate,2024,1,6,10,Saturday,Peak,73.39,High
+e6a11e,Downtown,2024-01-06 11:00:00,326,73,Moderate,2024,1,6,11,Saturday,Off-Peak,42.63,Medium
+537422,Highway,2024-01-06 12:00:00,262,75,Low,2024,1,6,12,Saturday,Off-Peak,33.85,Medium
+8cb5f1,Downtown,2024-01-06 13:00:00,265,28,Moderate,2024,1,6,13,Saturday,Off-Peak,58.01,Medium
+19dd0e,Industrial Area,2024-01-06 14:00:00,52,43,High,2024,1,6,14,Saturday,Off-Peak,24.54,Low
+b72c6b,Suburbs,2024-01-06 15:00:00,413,67,Moderate,2024,1,6,15,Saturday,Off-Peak,56.24,Medium
+dffc2b,Highway,2024-01-06 16:00:00,142,52,Moderate,2024,1,6,16,Saturday,Off-Peak,30.92,Low
+023733,Downtown,2024-01-06 17:00:00,269,37,High,2024,1,6,17,Saturday,Peak,53.94,Medium
+d6c6d7,Industrial Area,2024-01-06 18:00:00,415,57,Moderate,2024,1,6,18,Saturday,Peak,61.54,Medium
+2a6162,Suburbs,2024-01-06 19:00:00,89,65,High,2024,1,6,19,Saturday,Peak,17.9,Low
+d5b7b5,Residential Zone,2024-01-06 20:00:00,168,40,Low,2024,1,6,20,Saturday,Peak,40.15,Medium
+096ff0,Residential Zone,2024-01-06 21:00:00,279,64,High,2024,1,6,21,Saturday,Off-Peak,41.48,Medium
+801f94,Downtown,2024-01-06 22:00:00,352,39,Low,2024,1,6,22,Saturday,Off-Peak,63.01,Medium
+1e5dac,Suburbs,2024-01-06 23:00:00,319,28,High,2024,1,6,23,Saturday,Off-Peak,64.57,Medium
+5d0628,Highway,2024-01-07 00:00:00,154,27,High,2024,1,7,0,Sunday,Off-Peak,45.03,Medium
+96220d,Suburbs,2024-01-07 01:00:00,261,41,High,2024,1,7,1,Sunday,Off-Peak,50.94,Medium
+b22676,Highway,2024-01-07 02:00:00,75,59,Low,2024,1,7,2,Sunday,Off-Peak,19.24,Low
+2324fe,Suburbs,2024-01-07 03:00:00,477,21,High,2024,1,7,3,Sunday,Off-Peak,87.3,High
+dbbe83,Highway,2024-01-07 04:00:00,306,46,High,2024,1,7,4,Sunday,Off-Peak,53.87,Medium
+9d3317,Industrial Area,2024-01-07 05:00:00,197,74,Low,2024,1,7,5,Sunday,Off-Peak,26.46,Low
+ea4fe3,Downtown,2024-01-07 06:00:00,148,43,Low,2024,1,7,6,Sunday,Off-Peak,36.2,Medium
+3fea70,Industrial Area,2024-01-07 07:00:00,397,52,Low,2024,1,7,7,Sunday,Peak,61.89,Medium
+3cc344,Industrial Area,2024-01-07 08:00:00,449,28,Moderate,2024,1,7,8,Sunday,Peak,80.36,High
+915a57,Highway,2024-01-07 09:00:00,129,53,Moderate,2024,1,7,9,Sunday,Peak,28.83,Low
+42cc32,Industrial Area,2024-01-07 10:00:00,125,20,High,2024,1,7,10,Sunday,Peak,45.06,Medium
+79849a,Suburbs,2024-01-07 11:00:00,120,26,Moderate,2024,1,7,11,Sunday,Off-Peak,41.41,Medium
+7bf082,Highway,2024-01-07 12:00:00,109,79,High,2024,1,7,12,Sunday,Off-Peak,13.24,Low
+e95f51,Downtown,2024-01-07 13:00:00,91,68,High,2024,1,7,13,Sunday,Off-Peak,16.62,Low
+73aaa0,Residential Zone,2024-01-07 14:00:00,182,61,Moderate,2024,1,7,14,Sunday,Off-Peak,31.22,Low
+94fc61,Residential Zone,2024-01-07 15:00:00,326,25,High,2024,1,7,15,Sunday,Off-Peak,66.94,High
+058aed,Highway,2024-01-07 16:00:00,469,31,Low,2024,1,7,16,Sunday,Off-Peak,81.27,High
+d13f7a,Downtown,2024-01-07 17:00:00,367,43,High,2024,1,7,17,Sunday,Peak,62.8,Medium
+35f2bc,Industrial Area,2024-01-07 18:00:00,385,44,Moderate,2024,1,7,18,Sunday,Peak,64.48,Medium
+d52d50,Suburbs,2024-01-07 19:00:00,75,64,Moderate,2024,1,7,19,Sunday,Peak,16.7,Low
+bfe7ff,Residential Zone,2024-01-07 20:00:00,183,55,High,2024,1,7,20,Sunday,Peak,34.38,Medium
+f9206f,Suburbs,2024-01-07 21:00:00,166,65,High,2024,1,7,21,Sunday,Off-Peak,27.25,Low
+7e7ef6,Highway,2024-01-07 22:00:00,175,34,High,2024,1,7,22,Sunday,Off-Peak,44.04,Medium
+58e819,Downtown,2024-01-07 23:00:00,248,27,Moderate,2024,1,7,23,Sunday,Off-Peak,56.45,Medium
+f6c657,Industrial Area,2024-01-08 00:00:00,198,38,High,2024,1,8,0,Monday,Off-Peak,44.81,Medium
+7182fd,Suburbs,2024-01-08 01:00:00,369,79,Moderate,2024,1,8,1,Monday,Off-Peak,44.82,Medium
+42fed2,Highway,2024-01-08 02:00:00,426,26,Moderate,2024,1,8,2,Monday,Off-Peak,78.58,High
+5b7369,Suburbs,2024-01-08 03:00:00,229,40,Low,2024,1,8,3,Monday,Off-Peak,47.56,Medium
+65f23d,Downtown,2024-01-08 04:00:00,424,34,Moderate,2024,1,8,4,Monday,Off-Peak,74.28,High
+f18f0c,Suburbs,2024-01-08 05:00:00,165,27,High,2024,1,8,5,Monday,Off-Peak,46.37,Medium
+cd0129,Downtown,2024-01-08 06:00:00,492,63,High,2024,1,8,6,Monday,Off-Peak,67.86,High
+d53e51,Highway,2024-01-08 07:00:00,185,37,High,2024,1,8,7,Monday,Peak,43.74,Medium
+20b421,Suburbs,2024-01-08 08:00:00,140,62,High,2024,1,8,8,Monday,Peak,25.61,Low
+173218,Downtown,2024-01-08 09:00:00,261,50,High,2024,1,8,9,Monday,Peak,46.38,Medium
+180fe8,Downtown,2024-01-08 10:00:00,179,21,Low,2024,1,8,10,Monday,Peak,51.11,Medium
+4c368e,Highway,2024-01-08 11:00:00,168,54,High,2024,1,8,11,Monday,Off-Peak,33.06,Medium
+829b50,Industrial Area,2024-01-08 12:00:00,417,74,Moderate,2024,1,8,12,Monday,Off-Peak,53.18,Medium
+98997c,Highway,2024-01-08 13:00:00,146,52,Low,2024,1,8,13,Monday,Off-Peak,31.4,Low
+798886,Highway,2024-01-08 14:00:00,211,78,Low,2024,1,8,14,Monday,Off-Peak,26.13,Low
+25259e,Residential Zone,2024-01-08 15:00:00,156,58,Low,2024,1,8,15,Monday,Off-Peak,29.58,Low
+69e40a,Downtown,2024-01-08 16:00:00,471,31,Moderate,2024,1,8,16,Monday,Off-Peak,81.51,High
+6e2730,Downtown,2024-01-08 17:00:00,349,67,Low,2024,1,8,17,Monday,Peak,48.46,Medium
+bed1c0,Highway,2024-01-08 18:00:00,234,79,Low,2024,1,8,18,Monday,Peak,28.42,Low
+452a31,Industrial Area,2024-01-08 19:00:00,315,24,High,2024,1,8,19,Monday,Peak,66.11,High
+a31179,Industrial Area,2024-01-08 20:00:00,318,20,Moderate,2024,1,8,20,Monday,Peak,68.5,High
+56a219,Industrial Area,2024-01-08 21:00:00,198,47,Low,2024,1,8,21,Monday,Off-Peak,40.25,Medium
+b2c47f,Highway,2024-01-08 22:00:00,303,40,Low,2024,1,8,22,Monday,Off-Peak,56.55,Medium
+3a80ab,Residential Zone,2024-01-08 23:00:00,383,23,High,2024,1,8,23,Monday,Off-Peak,74.87,High
+e3f743,Highway,2024-01-09 00:00:00,380,53,Moderate,2024,1,9,0,Tuesday,Off-Peak,59.32,Medium
+9915da,Residential Zone,2024-01-09 01:00:00,262,43,Moderate,2024,1,9,1,Tuesday,Off-Peak,50.05,Medium
+05199f,Suburbs,2024-01-09 02:00:00,157,49,High,2024,1,9,2,Tuesday,Off-Peak,34.26,Medium
+f72f6f,Industrial Area,2024-01-09 03:00:00,410,33,Low,2024,1,9,3,Tuesday,Off-Peak,73.09,High
+8d316b,Highway,2024-01-09 04:00:00,255,75,Low,2024,1,9,4,Tuesday,Off-Peak,33.0,Low
+64c630,Downtown,2024-01-09 05:00:00,335,64,Moderate,2024,1,9,5,Tuesday,Off-Peak,48.28,Medium
+a98f47,Downtown,2024-01-09 06:00:00,69,76,High,2024,1,9,6,Tuesday,Off-Peak,9.9,Low
+6c1c4e,Residential Zone,2024-01-09 07:00:00,135,32,Low,2024,1,9,7,Tuesday,Peak,40.19,Medium
+e2ff5e,Suburbs,2024-01-09 08:00:00,255,43,Moderate,2024,1,9,8,Tuesday,Peak,49.2,Medium
+34efc7,Industrial Area,2024-01-09 09:00:00,107,43,High,2024,1,9,9,Tuesday,Peak,31.22,Low
+f1b86e,Downtown,2024-01-09 10:00:00,112,70,Moderate,2024,1,9,10,Tuesday,Peak,18.16,Low
+3bb76c,Downtown,2024-01-09 11:00:00,365,60,High,2024,1,9,11,Tuesday,Off-Peak,53.95,Medium
+442b00,Residential Zone,2024-01-09 12:00:00,396,62,High,2024,1,9,12,Tuesday,Off-Peak,56.7,Medium
+550e56,Highway,2024-01-09 13:00:00,120,64,Low,2024,1,9,13,Tuesday,Off-Peak,22.17,Low
+608bdb,Highway,2024-01-09 14:00:00,102,45,Low,2024,1,9,14,Tuesday,Off-Peak,29.6,Low
+ef3ddd,Downtown,2024-01-09 15:00:00,349,68,Low,2024,1,9,15,Tuesday,Off-Peak,47.96,Medium
+8a9bd1,Suburbs,2024-01-09 16:00:00,126,39,Moderate,2024,1,9,16,Tuesday,Off-Peak,35.56,Medium
+1d7a33,Highway,2024-01-09 17:00:00,139,44,Moderate,2024,1,9,17,Tuesday,Peak,34.6,Medium
+ca64ae,Downtown,2024-01-09 18:00:00,389,60,High,2024,1,9,18,Tuesday,Peak,56.87,Medium
+5bd6b8,Suburbs,2024-01-09 19:00:00,294,49,Moderate,2024,1,9,19,Tuesday,Peak,50.9,Medium
+b1b6bd,Downtown,2024-01-09 20:00:00,192,53,Moderate,2024,1,9,20,Tuesday,Peak,36.48,Medium
+467d91,Industrial Area,2024-01-09 21:00:00,240,40,Low,2024,1,9,21,Tuesday,Off-Peak,48.9,Medium
+828bcc,Industrial Area,2024-01-09 22:00:00,295,73,High,2024,1,9,22,Tuesday,Off-Peak,38.87,Medium
+9819dd,Industrial Area,2024-01-09 23:00:00,336,61,Moderate,2024,1,9,23,Tuesday,Off-Peak,49.92,Medium
+002779,Highway,2024-01-10 00:00:00,258,64,Low,2024,1,10,0,Wednesday,Off-Peak,38.93,Medium
+38d199,Suburbs,2024-01-10 01:00:00,192,58,High,2024,1,10,1,Wednesday,Off-Peak,33.95,Medium
+deef94,Residential Zone,2024-01-10 02:00:00,348,30,Moderate,2024,1,10,2,Wednesday,Off-Peak,67.08,High
+3903b5,Highway,2024-01-10 03:00:00,58,43,Low,2024,1,10,3,Wednesday,Off-Peak,25.27,Low
+040e5e,Residential Zone,2024-01-10 04:00:00,370,24,Moderate,2024,1,10,4,Wednesday,Off-Peak,72.79,High
+14d56b,Downtown,2024-01-10 05:00:00,437,74,High,2024,1,10,5,Wednesday,Off-Peak,55.61,Medium
+781c93,Residential Zone,2024-01-10 06:00:00,368,22,Low,2024,1,10,6,Wednesday,Off-Peak,73.56,High
+b1d725,Highway,2024-01-10 07:00:00,190,61,Moderate,2024,1,10,7,Wednesday,Peak,32.19,Low
+bebbff,Highway,2024-01-10 08:00:00,168,23,Low,2024,1,10,8,Wednesday,Peak,48.76,Medium
+5359eb,Highway,2024-01-10 09:00:00,368,32,Moderate,2024,1,10,9,Wednesday,Peak,68.49,High
+89263d,Downtown,2024-01-10 10:00:00,457,20,High,2024,1,10,10,Wednesday,Peak,85.38,High
+ba1643,Residential Zone,2024-01-10 11:00:00,116,33,High,2024,1,10,11,Wednesday,Off-Peak,37.38,Medium
+f40992,Highway,2024-01-10 12:00:00,285,56,High,2024,1,10,12,Wednesday,Off-Peak,46.26,Medium
+a09ebe,Downtown,2024-01-10 13:00:00,211,23,High,2024,1,10,13,Wednesday,Off-Peak,53.98,Medium
+1ad090,Residential Zone,2024-01-10 14:00:00,206,62,Moderate,2024,1,10,14,Wednesday,Off-Peak,33.63,Medium
+e445bb,Residential Zone,2024-01-10 15:00:00,429,25,Low,2024,1,10,15,Wednesday,Off-Peak,79.45,High
+bde2ff,Highway,2024-01-10 16:00:00,73,47,Moderate,2024,1,10,16,Wednesday,Off-Peak,25.07,Low
+0809b2,Residential Zone,2024-01-10 17:00:00,438,21,Low,2024,1,10,17,Wednesday,Peak,82.57,High
+0b2d4b,Industrial Area,2024-01-10 18:00:00,436,21,Moderate,2024,1,10,18,Wednesday,Peak,82.32,High
+ce51be,Suburbs,2024-01-10 19:00:00,178,73,Low,2024,1,10,19,Wednesday,Peak,24.66,Low
+e32daa,Residential Zone,2024-01-10 20:00:00,203,39,Low,2024,1,10,20,Wednesday,Peak,44.91,Medium
+9f9461,Highway,2024-01-10 21:00:00,211,26,Moderate,2024,1,10,21,Wednesday,Off-Peak,52.46,Medium
+21b473,Downtown,2024-01-10 22:00:00,369,59,Low,2024,1,10,22,Wednesday,Off-Peak,54.94,Medium
+bd35e6,Industrial Area,2024-01-10 23:00:00,256,57,Low,2024,1,10,23,Wednesday,Off-Peak,42.23,Medium
+b7e9e7,Industrial Area,2024-01-11 00:00:00,99,65,Low,2024,1,11,0,Thursday,Off-Peak,19.11,Low
+19b194,Industrial Area,2024-01-11 01:00:00,405,79,Low,2024,1,11,1,Thursday,Off-Peak,49.19,Medium
+2b56e2,Highway,2024-01-11 02:00:00,434,76,Moderate,2024,1,11,2,Thursday,Off-Peak,54.23,Medium
+478540,Highway,2024-01-11 03:00:00,349,61,Low,2024,1,11,3,Thursday,Off-Peak,51.5,Medium
+1e5993,Residential Zone,2024-01-11 04:00:00,443,72,Low,2024,1,11,4,Thursday,Off-Peak,57.35,Medium
+a58b7c,Highway,2024-01-11 05:00:00,212,46,Low,2024,1,11,5,Thursday,Off-Peak,42.46,Medium
+6d8bf1,Highway,2024-01-11 06:00:00,106,29,Moderate,2024,1,11,6,Thursday,Off-Peak,38.19,Medium
+cf0341,Highway,2024-01-11 07:00:00,337,79,Moderate,2024,1,11,7,Thursday,Peak,40.93,Medium
+016f02,Downtown,2024-01-11 08:00:00,101,25,Low,2024,1,11,8,Thursday,Peak,39.61,Medium
+5db8dd,Highway,2024-01-11 09:00:00,201,38,High,2024,1,11,9,Thursday,Peak,45.17,Medium
+7f6fe9,Industrial Area,2024-01-11 10:00:00,222,73,Low,2024,1,11,10,Thursday,Peak,30.0,Low
+88cee6,Residential Zone,2024-01-11 11:00:00,216,67,Low,2024,1,11,11,Thursday,Off-Peak,32.31,Low
+8fea25,Residential Zone,2024-01-11 12:00:00,384,22,Moderate,2024,1,11,12,Thursday,Off-Peak,75.5,High
+ff641e,Downtown,2024-01-11 13:00:00,458,57,Moderate,2024,1,11,13,Thursday,Off-Peak,66.77,High
+d23a31,Industrial Area,2024-01-11 14:00:00,165,65,Low,2024,1,11,14,Thursday,Off-Peak,27.13,Low
+92ee4d,Residential Zone,2024-01-11 15:00:00,477,60,Low,2024,1,11,15,Thursday,Off-Peak,67.56,High
+b25a86,Highway,2024-01-11 16:00:00,301,77,Low,2024,1,11,16,Thursday,Off-Peak,37.57,Medium
+8ad4b3,Highway,2024-01-11 17:00:00,248,23,High,2024,1,11,17,Thursday,Peak,58.48,Medium
+03eadf,Downtown,2024-01-11 18:00:00,329,75,Moderate,2024,1,11,18,Thursday,Peak,41.98,Medium
+a28f65,Industrial Area,2024-01-11 19:00:00,264,77,Low,2024,1,11,19,Thursday,Peak,33.08,Medium
+330987,Industrial Area,2024-01-11 20:00:00,264,62,Low,2024,1,11,20,Thursday,Peak,40.67,Medium
+25f006,Suburbs,2024-01-11 21:00:00,228,26,High,2024,1,11,21,Thursday,Off-Peak,54.53,Medium
+0e53db,Residential Zone,2024-01-11 22:00:00,312,47,Low,2024,1,11,22,Thursday,Off-Peak,54.1,Medium
+2ade28,Suburbs,2024-01-11 23:00:00,167,63,High,2024,1,11,23,Thursday,Off-Peak,28.38,Low
+0b3698,Highway,2024-01-12 00:00:00,61,42,Low,2024,1,12,0,Friday,Off-Peak,26.14,Low
+56a92e,Downtown,2024-01-12 01:00:00,297,31,High,2024,1,12,1,Friday,Off-Peak,60.38,Medium
+96cfc0,Suburbs,2024-01-12 02:00:00,393,49,High,2024,1,12,2,Friday,Off-Peak,62.92,Medium
+a919a7,Residential Zone,2024-01-12 03:00:00,184,25,High,2024,1,12,3,Friday,Off-Peak,49.69,Medium
+762dc5,Suburbs,2024-01-12 04:00:00,467,61,High,2024,1,12,4,Friday,Off-Peak,65.83,Medium
+c2a100,Highway,2024-01-12 05:00:00,79,57,Low,2024,1,12,5,Friday,Off-Peak,20.73,Low
+69cc95,Residential Zone,2024-01-12 06:00:00,400,22,Moderate,2024,1,12,6,Friday,Off-Peak,77.44,High
+1ed946,Residential Zone,2024-01-12 07:00:00,462,57,Moderate,2024,1,12,7,Friday,Peak,67.25,High
+edff01,Residential Zone,2024-01-12 08:00:00,288,59,Moderate,2024,1,12,8,Friday,Peak,45.11,Medium
+59e7f4,Residential Zone,2024-01-12 09:00:00,301,52,Moderate,2024,1,12,9,Friday,Peak,50.23,Medium
+e97dfb,Residential Zone,2024-01-12 10:00:00,368,23,High,2024,1,12,10,Friday,Peak,73.05,High
+eceff8,Highway,2024-01-12 11:00:00,485,46,High,2024,1,12,11,Friday,Off-Peak,75.62,High
+f63dd5,Downtown,2024-01-12 12:00:00,312,32,Moderate,2024,1,12,12,Friday,Off-Peak,61.69,Medium
+848998,Highway,2024-01-12 13:00:00,283,70,Low,2024,1,12,13,Friday,Off-Peak,38.93,Medium
+3377b6,Industrial Area,2024-01-12 14:00:00,208,56,Moderate,2024,1,12,14,Friday,Off-Peak,36.91,Medium
+884451,Highway,2024-01-12 15:00:00,417,66,Moderate,2024,1,12,15,Friday,Off-Peak,57.23,Medium
+26817d,Industrial Area,2024-01-12 16:00:00,279,50,Moderate,2024,1,12,16,Friday,Off-Peak,48.57,Medium
+9d6f7c,Suburbs,2024-01-12 17:00:00,306,61,High,2024,1,12,17,Friday,Peak,46.28,Medium
+fea47d,Highway,2024-01-12 18:00:00,476,47,High,2024,1,12,18,Friday,Peak,74.02,High
+6b7e6a,Residential Zone,2024-01-12 19:00:00,150,46,Low,2024,1,12,19,Friday,Peak,34.93,Medium
+0305c8,Residential Zone,2024-01-12 20:00:00,456,54,Low,2024,1,12,20,Friday,Peak,68.04,High
+9452c0,Residential Zone,2024-01-12 21:00:00,360,46,High,2024,1,12,21,Friday,Off-Peak,60.43,Medium
+49df05,Downtown,2024-01-12 22:00:00,249,52,Moderate,2024,1,12,22,Friday,Off-Peak,43.91,Medium
+d4955f,Suburbs,2024-01-12 23:00:00,314,71,Moderate,2024,1,12,23,Friday,Off-Peak,42.19,Medium
+7defa1,Residential Zone,2024-01-13 00:00:00,433,75,Moderate,2024,1,13,0,Saturday,Off-Peak,54.62,Medium
+d6c018,Downtown,2024-01-13 01:00:00,83,21,High,2024,1,13,1,Saturday,Off-Peak,39.45,Medium
+ea253c,Residential Zone,2024-01-13 02:00:00,227,78,Low,2024,1,13,2,Saturday,Off-Peak,28.08,Low
+d5466a,Highway,2024-01-13 03:00:00,175,28,Moderate,2024,1,13,3,Saturday,Off-Peak,47.08,Medium
+fefc87,Highway,2024-01-13 04:00:00,345,42,Low,2024,1,13,4,Saturday,Off-Peak,60.64,Medium
+2833ba,Highway,2024-01-13 05:00:00,491,42,Low,2024,1,13,5,Saturday,Off-Peak,78.37,High
+1aac2f,Industrial Area,2024-01-13 06:00:00,208,79,High,2024,1,13,6,Saturday,Off-Peak,25.26,Low
+1ba8fd,Downtown,2024-01-13 07:00:00,207,74,Moderate,2024,1,13,7,Saturday,Peak,27.67,Low
+008cf1,Industrial Area,2024-01-13 08:00:00,177,41,Moderate,2024,1,13,8,Saturday,Peak,40.74,Medium
+df5e5b,Downtown,2024-01-13 09:00:00,130,63,Moderate,2024,1,13,9,Saturday,Peak,23.89,Low
+89079c,Residential Zone,2024-01-13 10:00:00,462,51,Low,2024,1,13,10,Saturday,Peak,70.29,High
+4c1be0,Highway,2024-01-13 11:00:00,134,67,Low,2024,1,13,11,Saturday,Off-Peak,22.35,Low
